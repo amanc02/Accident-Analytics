@@ -11,7 +11,7 @@ This project is a comprehensive Tableau-based dashboard that analyzes road accid
 
 ## Files Included
 
-- `accident data.csv`: Raw dataset containing accident records.
+- [accident.csv](https://drive.google.com/file/d/1YSPcKPBXNRk_uUBjnHKtaXNnQAGpQzed/view): Raw dataset in Gdrive containing accident records.
 - `Accidentanalyticsaman.twbx`: Tableau workbook file with complete dashboards and visualizations.
 - [Video link](https://youtu.be/5xW0N_siX8k): Video demonstration of dashboard functionality. 
 
@@ -97,7 +97,7 @@ This project is a comprehensive Tableau-based dashboard that analyzes road accid
 ## How to Use
 
 1. Make sure both files are in the same directory.
-2. Open the `.twb` file (`Accidentanalyticsaman.twbx`) in Tableau Desktop.
+2. Open the `.twbx` file (`Accidentanalyticsaman.twbx`) in Tableau Desktop.
 3. If prompted, reconnect the data source to `accident data.csv`.
 4. Interact with the filters and dashboards to explore accident insights.
 
