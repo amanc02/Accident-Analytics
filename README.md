@@ -6,7 +6,7 @@
 This project is a comprehensive Tableau-based dashboard that analyzes road accident data consisting of **nearly one million records**. The goal is to mimic a real-time analytics setup to uncover patterns, highlight peak accident hours, and identify root causes to help policymakers and safety authorities make informed decisions. 
 
 > ⚠**Note:** The dataset used is not real-time or pulled from a live API. It is a static dataset designed to simulate real-world conditions for learning and demonstration purposes.
-
+![Image](https://github.com/user-attachments/assets/131a5f58-4532-4c58-8cb3-c27aa220e6c5)
 ---
 
 ## Files Included
